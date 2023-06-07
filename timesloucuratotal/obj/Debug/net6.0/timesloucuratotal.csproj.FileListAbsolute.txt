@@ -1,0 +1,15 @@
+C:\Users\logonrmlocal\source\repos\timesloucuratotal\timesloucuratotal\bin\Debug\net6.0\timesloucuratotal.exe
+C:\Users\logonrmlocal\source\repos\timesloucuratotal\timesloucuratotal\bin\Debug\net6.0\timesloucuratotal.deps.json
+C:\Users\logonrmlocal\source\repos\timesloucuratotal\timesloucuratotal\bin\Debug\net6.0\timesloucuratotal.runtimeconfig.json
+C:\Users\logonrmlocal\source\repos\timesloucuratotal\timesloucuratotal\bin\Debug\net6.0\timesloucuratotal.dll
+C:\Users\logonrmlocal\source\repos\timesloucuratotal\timesloucuratotal\bin\Debug\net6.0\timesloucuratotal.pdb
+C:\Users\logonrmlocal\source\repos\timesloucuratotal\timesloucuratotal\obj\Debug\net6.0\timesloucuratotal.csproj.AssemblyReference.cache
+C:\Users\logonrmlocal\source\repos\timesloucuratotal\timesloucuratotal\obj\Debug\net6.0\timesloucuratotal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logonrmlocal\source\repos\timesloucuratotal\timesloucuratotal\obj\Debug\net6.0\timesloucuratotal.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\source\repos\timesloucuratotal\timesloucuratotal\obj\Debug\net6.0\timesloucuratotal.AssemblyInfo.cs
+C:\Users\logonrmlocal\source\repos\timesloucuratotal\timesloucuratotal\obj\Debug\net6.0\timesloucuratotal.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\source\repos\timesloucuratotal\timesloucuratotal\obj\Debug\net6.0\timesloucuratotal.dll
+C:\Users\logonrmlocal\source\repos\timesloucuratotal\timesloucuratotal\obj\Debug\net6.0\refint\timesloucuratotal.dll
+C:\Users\logonrmlocal\source\repos\timesloucuratotal\timesloucuratotal\obj\Debug\net6.0\timesloucuratotal.pdb
+C:\Users\logonrmlocal\source\repos\timesloucuratotal\timesloucuratotal\obj\Debug\net6.0\timesloucuratotal.genruntimeconfig.cache
+C:\Users\logonrmlocal\source\repos\timesloucuratotal\timesloucuratotal\obj\Debug\net6.0\ref\timesloucuratotal.dll
